@@ -2,6 +2,30 @@
 
 **Automated Meta-Research - People Incorporating AI**
 
+### Goal: to help academic librarians and researchers decide which knowledge-synthesis tools to use by facilitating structured comparisons of those tools.
+
+
+## Components of the project
+
+- In order to compare tools, we need to gather information about those tools into consistent structured metadata records.
+- You can use **[AutoMeta Generator](https://autometapia.github.io/autometa-generator)** to create metadata records.
+- You can refer to **[AutoMeta Vocab](https://autometapia.github.io/autometa-vocab/)** to find terms to use in the metadata records.
+
+## Want to contribute metadata?
+
+### Practice creating a metadata record
+
+- Learn about the [ASReview](https://asreview.nl/) software
+- Learn about some of the automation methods used in the software, described in this paper: [An open source machine learning framework for efficient and transparent systematic reviews](https://doi.org/10.1038/s42256-020-00287-7).
+    - Section in the paper where they describe the machine-learning model: [Pipeline for manual and machine learning-aided systematic reviews](https://www.nature.com/articles/s42256-020-00287-7#Sec2).
+- Create a metadata record
+  - Fill in metadata fields using the [AutoMeta Generator](https://autometapia.github.io/autometa-generator).
+  - Refer to this [Metadata Application Profile (MAP)](https://docs.google.com/spreadsheets/d/1Ml5YLQB-3Z8FeyyUeAVYbne98BJqsKlo7vhy9KC7O6c/edit?usp=sharing) for instructions on how to fill out each field.
+  - Refer to [AutoMeta Vocab](https://autometapia.github.io/autometa-vocab/) to find terms to use in the metadata records.
+  - Click "Preview JSON" at the bottom of the AutoMeta Generator form to see the JSON file for your record
+- Submit the JSON record by pasting it in this [Google Form](https://forms.gle/W63VMCAc3haeEMx27)
+
+
 ## Background to the larger AutoMetaPIA project
 
 ### Knowledge synthesis is important.
@@ -36,33 +60,6 @@
 
 ### We need to be able to make informed choices about which tools to use.
 
-
 - It can take a lot of digging to figure out how automation features work in different tools.
 
-
-
-### Our goal is to help academic librarians and researchers decide which knowledge-synthesis tools to use by facilitating structured comparisons of those tools.
-
-
-## Components of the project
-
-- In order to compare tools, we need to gather information about those tools into consistent structured metadata records.
-- You can use **[AutoMeta Generator](https://autometapia.github.io/autometa-generator)** to create metadata records.
-- You can refer to **[AutoMeta Vocab](https://autometapia.github.io/autometa-vocab/)** to find terms to use in the metadata records.
-
-
-## Want to contribute metadata?
-
-### Practice creating a metadata record
-
-- Learn about the [ASReview](https://asreview.nl/) software
-- Learn about some of the automation methods used in the software, described in this paper: [An open source machine learning framework for efficient and transparent systematic reviews](https://doi.org/10.1038/s42256-020-00287-7).
-    - Section in the paper where they describe the machine-learning model: [Pipeline for manual and machine learning-aided systematic reviews](https://www.nature.com/articles/s42256-020-00287-7#Sec2).
-- Create a metadata record
-  - Fill in metadata fields using the [AutoMeta Generator](https://autometapia.github.io/autometa-generator).
-  - Refer to this [Metadata Application Profile (MAP)](XX) for instructions on how to fill out each field.
-  - Refer to [AutoMeta Vocab](https://autometapia.github.io/autometa-vocab/) to find terms to use in the metadata records.
-  - Click "XX" at the bottom of the AutoMeta Generator form to create a series of XXs for your record
-- Submit the record by pasting it in this form: [XX]()
-- See how your record compares to others here: [XX]()
 
